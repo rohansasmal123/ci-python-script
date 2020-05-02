@@ -1,0 +1,11 @@
+--2020-05-02 17:40:16--  https://github.com/rohansasmal123/jenkins-test
+Resolving github.com (github.com)... 13.234.176.102
+Connecting to github.com (github.com)|13.234.176.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘htmldata/jenkins-test’
+
+jenkins-test                 [  <=>                            ]  73.81K   244KB/s    in 0.3s    
+
+2020-05-02 17:40:16 (244 KB/s) - ‘htmldata/jenkins-test’ saved [75578]
+
